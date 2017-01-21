@@ -1,6 +1,6 @@
 #include <iostream>
 
-int add(int, int);
+int add(int x, int y);
 
 int main() {
     int x, y;
